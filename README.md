@@ -9,7 +9,7 @@ Dice Roller is a simple app that rolls a six sided die.
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png)
+![Screenshot1](https://raw.githubusercontent.com/udacity/andfun-kotlin-dice-roller/master/screenshots/screen0.png) ![Screenshot1](https://raw.githubusercontent.com/udacity/andfun-kotlin-dice-roller/master/screenshots/screen1.png)
 
 
 ## How to use this repository
